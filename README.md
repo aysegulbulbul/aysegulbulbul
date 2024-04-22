@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently study **Computer Engineer.**
 
-- 👨🏻‍💻️ I'm open **to working in any field related Artificial Intelligent where I can improve myself.**
+- 👨🏻‍💻️ I'm open **to working in any field related Artificial Intelligence where I can improve myself.**
 
 - 🤝 I am available **for remote work**
 
@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysegulbulbul&" alt="aysegulbulbul" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/aysegulbulbul/aysegulbulbul/blob/output/github-contribution-grid-snake.gif)
