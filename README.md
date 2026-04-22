@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayşegül Bülbül</h1>
-<h3 align="center">I'm Computer Engineering student from Turkiye</h3>
+<h3 align="center">"I am a Master's student in Computer Engineering</h3>
 
 - 🔭 I’m interested in **AI & Computer Vision.**
 
